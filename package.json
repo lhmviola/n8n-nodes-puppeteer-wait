@@ -1,12 +1,12 @@
 {
-    "name": "n8n-nodes-puppeteer",
+    "name": "n8n-nodes-puppeteer-wait",
     "version": "0.6.3",
     "description": "n8n node for requesting webpages using Puppeteer",
     "license": "MIT",
     "homepage": "https://github.com/drudge/n8n-nodes-puppeteer",
     "author": {
-        "name": "Nicholas Penree",
-        "email": "nick@penree.com"
+        "name": "Luis Viola",
+        "email": "luis.viola@enablers.com.br"
     },
     "repository": {
         "type": "git",

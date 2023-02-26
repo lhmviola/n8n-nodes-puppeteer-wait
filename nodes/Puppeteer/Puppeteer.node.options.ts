@@ -404,6 +404,19 @@ export const nodeDescription: INodeTypeDescription = {
 			description: "When true, takes a screenshot of the full scrollable page.",
 		},
 		{
+			displayName: "Wait Before Screenshot",
+			name: "wait_before_screenshot",
+			type: "string",
+			required: true,
+			default: 1000,
+			displayOptions: {
+				show: {
+					operation: ["getScreenshot"],
+				},
+			},
+			description: "Wait x Seconds Before Screenshot",
+		},
+		{
 			displayName: "Query Parameters",
 			name: "queryParameters",
 			placeholder: "Add Parameter",
