@@ -1,8 +1,9 @@
-# n8n-nodes-puppeteer
+# n8n-nodes-puppeteer-wait
 
 ![n8n.io - Workflow Automation](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png)
 
-[n8n](https://www.n8n.io) node for requesting webpages using [Puppeteer](https://pptr.dev/), a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
+[n8n](https://www.n8n.io) node for requesting webpages using [Puppeteer](https://pptr.dev/), a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). 
+This version is based on [n8n-nodes-puppeteer](https://www.npmjs.com/package/n8n-nodes-puppeteer) but with the option to have a wait time between chromium render the page and the screenshot.
 
 ## How to install
 

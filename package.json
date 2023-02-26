@@ -1,16 +1,16 @@
 {
-    "name": "n8n-nodes-puppeteer-wait",
+    "name": "n8n-nodes-puppeteer-wait-to-screenshot",
     "version": "0.6.3",
-    "description": "n8n node for requesting webpages using Puppeteer",
+    "description": "n8n node for requesting webpages using Puppeteer - based on n8n-nodes-puppeteer",
     "license": "MIT",
-    "homepage": "https://github.com/drudge/n8n-nodes-puppeteer",
+    "homepage": "https://gitlab.com/enablers/libs_enablers/libs_nodejs/n8n-nodes-puppeteer-wait",
     "author": {
         "name": "Luis Viola",
         "email": "luis.viola@enablers.com.br"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/drudge/n8n-nodes-puppeteer.git"
+        "url": "git+https://gitlab.com/enablers/libs_enablers/libs_nodejs/n8n-nodes-puppeteer-wait.git"
     },
     "main": "index.js",
     "scripts": {
