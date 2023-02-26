@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-puppeteer-wait-to-screenshot",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "description": "n8n node for requesting webpages using Puppeteer - based on n8n-nodes-puppeteer",
     "license": "MIT",
     "homepage": "https://gitlab.com/enablers/libs_enablers/libs_nodejs/n8n-nodes-puppeteer-wait",
