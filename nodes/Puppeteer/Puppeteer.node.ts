@@ -142,6 +142,7 @@ export class Puppeteer implements INodeType {
 					const fileName = options.fileName as string;
 					const type = this.getNodeParameter('imageType', itemIndex) as ScreenshotOptions['type'];
 					const fullPage = this.getNodeParameter('fullPage', itemIndex) as boolean;
+
 					const wait_before_screenshot: number = Number(this.getNodeParameter('wait_before_screenshot', itemIndex));
 					function delay(delay_time: number): Promise<any> {
 						return new Promise(resolve => setTimeout(resolve, delay_time * 1000));

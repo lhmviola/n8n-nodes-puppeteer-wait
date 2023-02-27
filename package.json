@@ -3,14 +3,14 @@
     "version": "0.6.4",
     "description": "n8n node for requesting webpages using Puppeteer - based on n8n-nodes-puppeteer",
     "license": "MIT",
-    "homepage": "https://gitlab.com/enablers/libs_enablers/libs_nodejs/n8n-nodes-puppeteer-wait",
+    "homepage": "https://github.com/lhmviola/n8n-nodes-puppeteer-wait",
     "author": {
         "name": "Luis Viola",
         "email": "luis.viola@enablers.com.br"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitlab.com/enablers/libs_enablers/libs_nodejs/n8n-nodes-puppeteer-wait.git"
+        "url": "git@github.com:lhmviola/n8n-nodes-puppeteer-wait.git"
     },
     "main": "index.js",
     "scripts": {
